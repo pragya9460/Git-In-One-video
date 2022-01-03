@@ -1,3 +1,5 @@
+# Git and Github 
+ 
 ->git bash is not just a git tool it is like a terminal
 
 This is my first read me fill and I don't if know if it is made like this or not.
@@ -152,7 +154,4 @@ If code repo is private repo then we can't push master repo into it (above comma
 	git push -u code feature1
 	git push -u code feature2
 37) To clone any repo
-	git clone (url of that repo) (folder name in which we want to clone)
-
-=======
->>>>>>> feature1
+	git clone (url of that repo) (folder name in which we want to clone) 
